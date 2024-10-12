@@ -21,7 +21,7 @@ export default function Name({ params }: { params: { name: string } }) {
       backgroundColor: '#fff',
       borderRadius: '10px',
       boxShadow: '0 4px 8px rgba(0, 0, 0, 0.1)',  // subtle shadow for depth
-      textAlign: 'center',
+      // textAlign: 'center',
     },
     heading: {
       fontSize: '36px',
