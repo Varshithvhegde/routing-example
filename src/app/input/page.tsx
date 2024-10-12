@@ -34,7 +34,7 @@ const NamePage: React.FC = () => {
 const styles = {
   container: {
     display: 'flex',
-    flexDirection: 'column',
+    // flexDirection: 'column',
     alignItems: 'center',
     justifyContent: 'center',
     height: "100vh",
